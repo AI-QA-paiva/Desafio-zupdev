@@ -1,2 +1,2 @@
-# Desafio-zupdev
-projeto curso
+# Minicurso-dev
+Programa catalisa
