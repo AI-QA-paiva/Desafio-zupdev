@@ -53,3 +53,33 @@ main > section button {
 #detalhes-container > li p {
     color: white;
 }
+
+#detalhes-container1 {
+    font-weight: bold;
+    list-style-type: none;
+    width: 90%;
+}
+
+#detalhes-container1 > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container1 > li p {
+    color: white;
+}
+
+#detalhes-container2 {
+    font-weight: bold;
+    list-style-type: none;
+    width: 90%;
+}
+
+#detalhes-container2 > li {
+    align-items: baseline;
+    display: flex;
+}
+
+#detalhes-container2 > li p {
+    color: white;
+}
