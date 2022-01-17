@@ -66,4 +66,3 @@ pegarPersonagem = () => {
 }
 
 botao.onclick = pegarPersonagem;
-pegarPersonagem ();
